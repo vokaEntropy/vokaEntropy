@@ -8,5 +8,8 @@ Most of them are hidden, but there are some that you can still look at.
 A frontend developer who has been developing in JS for the third year.  
 He mostly uses React and TypeScript.
 
+🀄️ **What else does this developer do?**  
+Translating Open Source applications into Belarusian.
+
 🌚 **How did I end up here?**  
 I don't know, but thanks for visiting this repository.
