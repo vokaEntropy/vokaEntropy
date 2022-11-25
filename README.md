@@ -14,5 +14,7 @@ Translating Open Source applications into Belarusian.
 🌚 **How did I end up here?**  
 I don't know, but thanks for visiting this repository.
 
- 🎯 **My achievements**  
+
+### 🎯 My achievements 🎯  
+
 [<img src="https://www.codewars.com/users/vokaEntropy/badges/micro">](<https://www.codewars.com/users/vokaEntropy>)
