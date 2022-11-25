@@ -20,3 +20,5 @@ I don't know, but thanks for visiting this repository.
 [<img src="https://www.codewars.com/users/vokaEntropy/badges/micro">](<https://www.codewars.com/users/vokaEntropy>)
 
 ### 🪪 My socials 🪪
+
+![Twitter Follow](https://img.shields.io/twitter/follow/Pierakladnik?style=social) ![Mastodon Follow](https://img.shields.io/mastodon/follow/109373424161802032?domain=https%3A%2F%2Fvkl.world&style=social)
