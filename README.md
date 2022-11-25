@@ -18,3 +18,5 @@ I don't know, but thanks for visiting this repository.
 ### 🎯 My achievements 🎯  
 
 [<img src="https://www.codewars.com/users/vokaEntropy/badges/micro">](<https://www.codewars.com/users/vokaEntropy>)
+
+### 🪪 My socials 🪪
