@@ -13,3 +13,5 @@ Translating Open Source applications into Belarusian.
 
 🌚 **How did I end up here?**  
 I don't know, but thanks for visiting this repository.
+
+https://www.codewars.com/users/vokaEntropy/badges/large
